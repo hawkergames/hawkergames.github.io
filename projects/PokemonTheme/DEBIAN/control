@@ -1,0 +1,8 @@
+Package: com.hawkergames.pokemontheme
+Name: Pokemon Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A cool Pokemon Theme for ios 9. It Currently supports only iPad Air, iPad Air 2 and iPad Mini.
+Maintainer: Kosta Kazazis (HawkerGames) <kostakazazis@gmail.com>
+Author: Kosta Kazazis (HawkerGames) <kostakazazis@gmail.com>
+Section: Themes (Springboard)

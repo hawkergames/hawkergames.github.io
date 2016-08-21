@@ -1,0 +1,8 @@
+Origin: HawkerGames Repo
+Label: HawkerGames Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A Repo that has themes and tweaks
